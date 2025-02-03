@@ -1,0 +1,20 @@
+local gameInfo = {
+    { PlaceId = 2753915549, Name = "Game 1", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/Main'))()" },
+    { PlaceId = 4442272183, Name = "Game 2", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/Main'))()" },
+    { PlaceId = 7449423635, Name = "Game 3", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/Main'))()" },
+    { PlaceId = 1234567890, Name = "Alternate Game", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/AlternateScript'))()" }
+}
+
+local currentPlaceId = game.PlaceId
+
+for _, game in ipairs(gameInfo) do
+    if currentPlaceId == game.PlaceId then
+        print("Game Name: " .. game.Name)
+        print("Script URL: " .. game.ScriptUrl)
+
+        -- Execute the script directly with the loadstring included in the table
+        loadstring(game.ScriptUrl)()  -- Executes the script directly
+        
+        break
+    end
+end
