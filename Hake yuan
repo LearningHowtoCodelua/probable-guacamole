@@ -1,8 +1,8 @@
 local gameInfo = {
     { PlaceId = 2753915549, Name = "Bloxfruits", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/Main'))()" },
-    { PlaceId = 4442272183, Name = "fisch", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()" },
-    { PlaceId = 7449423635, Name = "petsim", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/PetSimulator99/main/redz9999.lua"))()" },
-    { PlaceId = 1234567890, Name = "Alternate Game", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/AlternateScript'))()" }
+    { PlaceId = 16732694052, Name = "fisch", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()" },
+    { PlaceId = 8737899170, Name = "petsim", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/PetSimulator99/main/redz9999.lua"))()" },
+    { PlaceId = 16146832113, Name = "animevanguard", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Anime%20Vanguards.lua"))()" }
 }
 
 local currentPlaceId = game.PlaceId
