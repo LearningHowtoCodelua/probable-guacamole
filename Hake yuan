@@ -1,7 +1,7 @@
 local gameInfo = {
-    { PlaceId = 2753915549, Name = "Game 1", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/Main'))()" },
-    { PlaceId = 4442272183, Name = "Game 2", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/Main'))()" },
-    { PlaceId = 7449423635, Name = "Game 3", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/Main'))()" },
+    { PlaceId = 2753915549, Name = "Bloxfruits", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/Main'))()" },
+    { PlaceId = 4442272183, Name = "fisch", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()" },
+    { PlaceId = 7449423635, Name = "petsim", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/PetSimulator99/main/redz9999.lua"))()" },
     { PlaceId = 1234567890, Name = "Alternate Game", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/AlternateScript'))()" }
 }
 
