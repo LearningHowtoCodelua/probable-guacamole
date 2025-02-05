@@ -8,8 +8,8 @@ local gameInfo = {
     { PlaceId = 18901165922, Name = "petsgo", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()" },
     { PlaceId = 13772394625, Name = "bladeball", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BladeBall/main/redz9999"))()" },
     { PlaceId = 10260193230, Name = "memesea", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/MemeSea/refs/heads/main/Source.lua"))()" },
-    { PlaceId = 6789012345, Name = "examplegame6", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script10.lua'))()" },
-    { PlaceId = 7890123456, Name = "examplegame7", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script11.lua'))()" },
+    { PlaceId = 2788229376, Name = "dahood", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script10.lua'))()" },
+    { PlaceId = 15186202290, Name = "dastrike", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script11.lua'))()" },
     { PlaceId = 8901234567, Name = "examplegame8", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script12.lua'))()" },
     { PlaceId = 9012345678, Name = "examplegame9", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script13.lua'))()" }
 }
