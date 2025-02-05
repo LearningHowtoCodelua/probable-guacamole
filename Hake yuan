@@ -12,7 +12,7 @@ local gameInfo = {
     { PlaceId = 15186202290, Name = "dastrike", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script11.lua'))()" },
     { PlaceId = 142823291, Name = "mm2", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/
 yarhm.lua", false)) (" },
-    { PlaceId = 9012345678, Name = "examplegame9", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script13.lua'))()" }
+    { PlaceId = 8916037983, Name = "examplegame9", passisusernaxo = "loadstring(game:HttpGet("https://github.com/usernaxo/RobloxScripts/raw/main/StarvingArtists/DrawingScript.lua", true))()" }
 }
 
 local currentPlaceId = game.PlaceId
