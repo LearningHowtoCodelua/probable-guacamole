@@ -10,10 +10,8 @@ local gameInfo = {
     { PlaceId = 10260193230, Name = "memesea", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/MemeSea/refs/heads/main/Source.lua"))()" },
     { PlaceId = 2788229376, Name = "dahood", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script10.lua'))()" },
     { PlaceId = 15186202290, Name = "dastrike", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script11.lua'))()" },
-    { PlaceId = 142823291, Name = "mm2", ScriptUrl = "getgenv().mainKey = "nil"
- 
-local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https\58//api.eclipsehub.xyz/auth";c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["User-Agent"]="Eclipse"}}).Body)()
-" },
+    { PlaceId = 142823291, Name = "mm2", ScriptUrl = "loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/
+yarhm.lua", false)) (" },
     { PlaceId = 9012345678, Name = "examplegame9", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script13.lua'))()" }
 }
 
