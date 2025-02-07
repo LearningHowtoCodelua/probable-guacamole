@@ -11,7 +11,7 @@ local gameInfo = {
     { PlaceId = 2788229376, Name = "dahood", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script10.lua'))()" },
     { PlaceId = 15186202290, Name = "dastrike", ScriptUrl = "loadstring(game:HttpGet('https://example.com/script11.lua'))()" },
     { PlaceId = 142823291, Name = "mm2", ScriptUrl = "loadstring(game:HttpGet('https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua', false))()" },
-    { PlaceId = 8916037983, Name = "examplegame9", ScriptUrl = "loadstring(game:HttpGet('https://github.com/usernaxo/RobloxScripts/raw/main/StarvingArtists/DrawingScript.lua', true))()" }
+    { PlaceId = 286090429, Name = "aresnal", ScriptUrl = "loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/93f86be991de0ff7d79e6328e4ceea40.lua"))()" }
 }
 
 local currentPlaceId = game.PlaceId
